@@ -19,4 +19,5 @@ Jika tahap persiapan sudah beres selanjutnya jalankan subconverternya
 # Tutorial Penggunaan
 1. Jalankan clash.py di termux 
  + python ./subconverter-clash/clash.py
-2. Done
+2. Copas akun vmess/trojan pada file data.txt
+3. Done
