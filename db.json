@@ -1,0 +1,139 @@
+{
+  "howdy": [
+    {
+      "sg1-trojan.bonds.id": "SG-HE 1 Trojan"
+    },
+    {
+      "sg2-trojan.bonds.id": "SG-HE 2 Trojan"
+    },
+    {
+      "sg3-trojan.bonds.id": "SG-HE 3 Trojan"
+    },
+    {
+      "id2-trojan.bonds.id": "ID-Biznet Jakarta Trojan"
+    },
+    {
+      "sgovh-trojan.bonds.id": "SG Trojan OVH"
+    },
+    {
+      "sg6-trojan.bonds.id": "SG-HE MUX Trojan"
+    },
+    {
+      "sg8-trojan.bonds.id": "SG UDPGW Trojan"
+    },
+    {
+      "idtj-ikd.bonds.id": "ID-IKD Trojan"
+    },
+    {
+      "id5-trojan.bonds.id": "ID-Biznet Banten Trojan"
+    },
+    {
+      "idtj-herza.bonds.id": "ID Herza Trojan"
+    },
+    {
+      "sg-atha.bonds.id": "SG DualStak Trojan"
+    }
+  ],
+  "sshstores": [
+    {
+      "sg.vmess1.xservs.xyz": "sg1"
+    },
+    {
+      "sg.vmess2.xservs.xyz": "sg2"
+    },
+    {
+      "sg.vmess3.xservs.xyz": "sg3"
+    },
+    {
+      "sg.vmess4.xservs.xyz": "sg4"
+    },
+    {
+      "sg.vmess5.xservs.xyz": "sg5"
+    },
+    {
+      "sg.vmess6.xservs.xyz": "sg6"
+    },
+    {
+      "sg.vmess7.xservs.xyz": "sg7"
+    },
+    {
+      "sg.vmess8.xservs.xyz": "sg8"
+    }
+  ],
+  "sshocean": [
+    {
+      "id1.v2rayserv.com": "ID 01"
+    },
+    {
+      "id2.v2rayserv.com": "ID 02"
+    },
+    {
+      "id3.v2rayserv.com": "ID 03"
+    },
+    {
+      "id4.v2rayserv.com": "ID 04"
+    },
+    {
+      "id5.v2rayserv.com": "ID 05"
+    },
+    {
+      "id6.v2rayserv.com": "ID 06"
+    },
+    {
+      "sg1-ctb.v2rayserv.com": "SG CTB 01"
+    },
+    {
+      "sg2-ctb.v2rayserv.com": "SG CTB 02"
+    },
+    {
+      "sgovh1.v2rayserv.com": "SG OVH 01"
+    },
+    {
+      "sg1.v2rayserv.com": "VM SG 01"
+    },
+    {
+      "sg2.v2rayserv.com": "VM SG 01"
+    },
+    {
+      "sg3.v2rayserv.com": "VM SG 01"
+    },
+    {
+      "sg4.v2rayserv.com": "VM SG 01"
+    },
+    {
+      "sg5.v2rayserv.com": "VM SG 01"
+    },
+    {"sgt1.sshocean.net": "Trojan SG 01"},
+    {"sgt2.sshocean.net": "Trojan SG 02"},
+    {"sgt3.sshocean.net": "Trojan SG 03"}
+  ],
+  "fastssh": [
+    {
+      "id2.v2-ray.com": "V2Ray Indonesia ATHA"
+    },
+    {
+      "sg2.v2-ray.com": "V2Ray Singapore HE-2"
+    },
+    {
+      "sg1.v2-ray.com": "V2Ray Singapore HE-1"
+    },
+    {
+      "sg3.v2-ray.com": "V2Ray Singapore UDPGW"
+    },
+    {
+      "id-herza.v2-ray.com": "V2Ray ID Herza"
+    },
+    {
+      "id-ikd.v2-ray.com": "V2Ray ID IKD"
+    },
+    {
+      "sg-ovh1.v2-ray.com": "V2Ray SG OVH 1"
+    },
+    {
+      "sg-ovh2.v2-ray.com": "V2Ray SG OVH 2"
+    },
+    {
+      "sg-atha.v2-ray.com": "V2Ray Singapore AMP"
+    }
+  ]
+}
