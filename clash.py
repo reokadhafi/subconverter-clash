@@ -158,7 +158,7 @@ def config_gamemax():
             dt['type'] = 'trojan'
             dt['password'] = cm['password']
             dt['tls'] = 'true'
-            dt['skip-cert-verify'] = 'false'
+            dt['skip-cert-verify'] = 'true'
             dt['sni'] = cm['sni']
             dt['network'] = 'ws'
             dt['ws-opts'] = {'path': cm['path'],
@@ -200,7 +200,7 @@ def config_opok():
                 dt['alterId'] = 0
                 dt['cipher'] = 'auto'
                 dt['tls'] = 'true'
-                dt['skip-cert-verify'] = 'false'
+                dt['skip-cert-verify'] = 'true'
                 dt['servername'] = bug
                 dt['network'] = 'ws'
                 if cm['sni'] == '':
@@ -220,7 +220,7 @@ def config_opok():
                 dt['alterId'] = 0
                 dt['cipher'] = 'auto'
                 dt['tls'] = 'true'
-                dt['skip-cert-verify'] = 'false'
+                dt['skip-cert-verify'] = 'true'
                 dt['servername'] = bug
                 dt['network'] = 'ws'
                 dt['ws-opts'] = {'path': f"wss://{bug}{cm['path']}",
@@ -236,7 +236,7 @@ def config_opok():
             dt['type'] = 'trojan'
             dt['password'] = cm['password']
             dt['tls'] = 'true'
-            dt['skip-cert-verify'] = 'false'
+            dt['skip-cert-verify'] = 'true'
             dt['sni'] = bug
             dt['network'] = 'ws'
             dt['ws-opts'] = {'path': f"wss://{bug}{cm['path']}",
